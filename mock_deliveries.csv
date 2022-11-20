@@ -1,0 +1,10 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+1,1,Sunrisers Hyderabad,Royal Challengers Bangalore,18,1,DJ Hooda,Yuvraj Singh,A Choudhary,0,0,0,0,0,0,6,0,6,,,
+1,2,Royal Challengers Bangalore,Sunrisers Hyderabad,2,4,Mandeep Singh,CH Gayle,B Kumar,0,0,0,0,0,0,0,0,0,,,
+565,2,Delhi Daredevils,Chennai Super Kings,15,2,JA Morkel,SS Iyer,R Ashwin,0,0,0,0,0,0,1,0,1,,,
+567,1,Mumbai Indians,Kolkata Knight Riders,3,6,LMP Simmons,PA Patel,Shakib Al Hasan,0,0,0,0,0,0,4,0,4,,,
+570,2,Kolkata Knight Riders,Rajasthan Royals,18,7,UT Yadav,Shakib Al Hasan,SR Watson,0,1,0,0,0,0,0,1,1,,,
+570,2,Kolkata Knight Riders,Rajasthan Royals,20,3,M Morkel,UT Yadav,CH Morris,0,0,0,0,0,0,2,0,2,,,
+584,1,Sunrisers Hyderabad,Kolkata Knight Riders,13,3,NV Ojha,EJG Morgan,SP Narine,0,0,0,0,0,0,1,0,1,,,
+584,2,Kolkata Knight Riders,Sunrisers Hyderabad,2,1,RV Uthappa,G Gambhir,BB Sran,0,1,0,0,0,0,0,1,1,,,
+584,2,Kolkata Knight Riders,Sunrisers Hyderabad,10,4,G Gambhir,RV Uthappa,MC Henriques,0,1,0,0,0,0,0,1,1,,,

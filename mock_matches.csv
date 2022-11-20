@@ -1,0 +1,4 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,umpire3
+560,2015,Kolkata,2015-05-09,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,normal,0,Kolkata Knight Riders,0,1,AD Russell,Eden Gardens,AK Chaudhary,HDPK Dharmasena,
+570,2015,Mumbai,2015-05-16,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,normal,0,Rajasthan Royals,9,0,SR Watson,Brabourne Stadium,RM Deshpande,RK Illingworth,
+584,2016,Hyderabad,2016-04-16,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,8,G Gambhir,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,CK Nandan,
