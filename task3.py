@@ -1,15 +1,6 @@
 """Extra Conceded in 2016"""
-# from csv import DictReader
-
-# matches_file = open("mock_matches.csv", "r", encoding='utf-8')
-# matches_data = DictReader(matches_file)
-
-# deliveries_file = open("mock_deliveries.csv", "r", encoding='utf-8')
-# deliveries_data = DictReader(deliveries_file)
-
 
 def calculate(matches_data, deliveries_data):
-
     teams_data = {}
     # matchin2016=[]
     matchin2016 = set()
@@ -22,7 +13,6 @@ def calculate(matches_data, deliveries_data):
 
     # print(teams_data)
     # print(matchin2016)
-
     for delivery in deliveries_data:
         if delivery['match_id'] in matchin2016:
             team_name = delivery['bowling_team']
@@ -35,7 +25,6 @@ def calculate(matches_data, deliveries_data):
 
 
 def transform(teams_data):
-
     names = list(teams_data.keys())
     exruns = list(teams_data.values())
     # print(names,exruns)
